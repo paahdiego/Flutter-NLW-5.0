@@ -74,6 +74,7 @@ class _HomePageState extends State<HomePage> {
                       .map(
                         (e) => QuizCardWidget(
                           title: e.title,
+                          image: e.imagem,
                           onTap: () {
                             Navigator.push(
                               context,

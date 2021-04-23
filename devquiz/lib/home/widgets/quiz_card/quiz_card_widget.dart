@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 class QuizCardWidget extends StatelessWidget {
   final String title;
   final String completed;
+  final String image;
   final double percentage;
   final VoidCallback onTap;
 
@@ -12,6 +13,7 @@ class QuizCardWidget extends StatelessWidget {
     Key? key,
     required this.title,
     required this.completed,
+    required this.image,
     required this.percentage,
     required this.onTap,
   }) : super(key: key);
@@ -36,7 +38,7 @@ class QuizCardWidget extends StatelessWidget {
             Container(
               width: 40,
               height: 40,
-              child: Image.asset(AppImages.blocks),
+              child: Image.asset(image),
             ),
             SizedBox(
               height: 6,
