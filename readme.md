@@ -25,13 +25,7 @@
         <li><a href="#built-with">Tecnologias utilizadas</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Stated</a>
-      <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
-        <li><a href="#installation">Instalação</a></li>
-      </ul>
-    </li>
+    <li><a href="#getting-started">Instalação</a></li>
     <li><a href="#usage">Uso</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
