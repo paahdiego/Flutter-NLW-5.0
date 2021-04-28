@@ -1,17 +1,17 @@
-# Evento RocketSeat Next Level Week 5.0 - Trilha Flutter
+# DevQuiz
 
-Repositório com os arquivos e aplicação "DEVQUIZ" replicados da NLW 5.0 - Trilha Flutter.
+Repositório com os arquivos e aplicação "DEVQUIZ" replicados durante a "NextLevelWeek 5.0".
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/images/logo.png" alt="DevQuiz" width="100">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <img src="assets/images/logo.png" alt="DevQuiz" width="100">
+
+
+  <h3 align="center">DevQuiz</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
