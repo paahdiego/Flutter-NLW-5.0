@@ -8,7 +8,7 @@ Repositório com os arquivos e aplicação "DEVQUIZ" replicados da NLW 5.0 - Tri
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="assets/images/logo.png" alt="DevQuiz" width="80" height="80">
+    <img src="assets/images/logo.png" alt="DevQuiz" width="100">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
