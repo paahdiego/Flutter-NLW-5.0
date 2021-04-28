@@ -23,6 +23,8 @@
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
         <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
+        <li><a href="#layout-figma">Figma</a></li>
+        <li><a href="#notion">Notion</a></li>
       </ul>
     </li>
     <li><a href="#instalacao">Instalação</a></li>
@@ -40,9 +42,17 @@
   </br>
   Trata-se de um aplicativo desenvolvido em Flutter de perguntas e respostas. O app permite que o usuário responda perguntas de um modo "gameficado" com feedback de seus resultados e progresso conforme avança nos Quizzes. Ao fim de um Quiz, o app permite que o usuário compartilhe seu resultado nas redes sociais.
 
-## Tecnologias utilizadas
+### Tecnologias utilizadas
 
 * [Flutter](https://flutter.dev/)
+
+### Layout Figma
+
+* [Figma](https://www.figma.com/file/JH3Va2QPC34tWkL2ownddF/DevQuiz-Copy)
+
+### Notion
+* [Notion](https://www.notion.so/Trilha-Flutter-a306b8d8751b4f76a7a1fc8f29db6d65)
+
 
 ## Instalação
 
