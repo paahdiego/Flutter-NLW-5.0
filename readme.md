@@ -27,9 +27,7 @@
     </li>
     <li><a href="#getting-started">Instalação</a></li>
     <li><a href="#usage">Uso</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
