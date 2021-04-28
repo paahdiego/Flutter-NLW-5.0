@@ -20,14 +20,13 @@
   <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Tecnologias utilizadas</a></li>
+        <li><a href="#tecnologias-utilizadas">Tecnologias utilizadas</a></li>
       </ul>
     </li>
-    <li><a href="#getting-started">Instalação</a></li>
-    <li><a href="#usage">Uso</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#instalacao">Instalação</a></li>
+    <li><a href="#licenca">Licença</a></li>
   </ol>
 </details>
 
@@ -41,11 +40,11 @@
   </br>
   Trata-se de um aplicativo desenvolvido em Flutter de perguntas e respostas. O app permite que o usuário responda perguntas de um modo "gameficado" com feedback de seus resultados e progresso conforme avança nos Quizzes. Ao fim de um Quiz, o app permite que o usuário compartilhe seu resultado nas redes sociais.
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * [Flutter](https://flutter.dev/)
 
-### Instalação
+## Instalação
 
 1. Crie um clone desse repo e acesse o diretório clonado.
    ```sh
