@@ -2,8 +2,7 @@
 <br />
 <p align="center">
 
-  <img src="assets/images/logo.png" alt="DevQuiz" width="100">
-
+  <img src="./.github/logo.png" alt="DevQuiz" width="150">
 
   <h3 align="center">DevQuiz</h3>
 
@@ -12,8 +11,6 @@
     <br />
   </p>
 </p>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -32,10 +29,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## Sobre o Projeto
+
   <p align="center">
   <img src="assets/images/home.PNG" alt="HomePage" width="250">
   </p>
@@ -44,26 +41,28 @@
 
 ### Tecnologias utilizadas
 
-* [Flutter](https://flutter.dev/)
+- [Flutter](https://flutter.dev/)
 
 ### Layout Figma
 
-* [Figma](https://www.figma.com/file/JH3Va2QPC34tWkL2ownddF/DevQuiz-Copy)
+- [Figma](https://www.figma.com/file/JH3Va2QPC34tWkL2ownddF/DevQuiz-Copy)
 
 ### Notion
-* [Notion](https://www.notion.so/Trilha-Flutter-a306b8d8751b4f76a7a1fc8f29db6d65)
 
+- [Notion](https://www.notion.so/Trilha-Flutter-a306b8d8751b4f76a7a1fc8f29db6d65)
 
 ## Instalação
 
 1. Crie um clone desse repo e acesse o diretório clonado.
+
    ```sh
-   git clone https://github.com/paahdiego/NLW-5-Flutter.git 
-   
+   git clone https://github.com/paahdiego/NLW-5-Flutter.git
+
    ou
-   
+
    git clone git@github.com:paahdiego/NLW-5-Flutter.git
    ```
+
 2. Instalação de dependencias
    ```sh
    flutter pub get
@@ -71,9 +70,10 @@
 3. Rodar aplicação
    ```sh
    flutter run
-   ```   
+   ```
 
 <!-- LICENSE -->
+
 ## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
